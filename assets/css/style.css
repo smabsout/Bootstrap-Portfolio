@@ -9,13 +9,34 @@
     width: 500px;
 }
 
+
+
 footer{
-position:fixed;
-margin:100px;
+    background-color: #777;
+    font-size: 10px;
+    overflow:hidden;
+    position: fixed;
+    left: 0;
+    bottom:0;
+    width: 100%;
+    color: #ccc;
+    text-align: center;
+    padding: 30px 40px;
+    border-top: 8px solid #4aaaa5;
+    
 }
 
 body{
     background-image:url(../images/background.png);
+    font-family: 'Allerta Stencil';font-size: 22px;
+    background-color: white!important;
+    position: relative;
+    margin: 0 auto;
+    background-image:url(../assets/images/background.png);
+    background-repeat: repeat;
+    font-size: 18px;
+    line-height: 28px;
+    font-family: 'Khand', sans-serif;
 }
 
 .myname{
