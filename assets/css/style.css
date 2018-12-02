@@ -1,0 +1,28 @@
+.col{
+    width: 500px;
+    margin: 25px;
+
+   
+}
+.msg{
+    margin: 25px;
+    width: 500px;
+}
+
+footer{
+position:fixed;
+margin:100px;
+}
+
+body{
+    background-image:url(../images/background.png);
+}
+
+.myname{
+    color:white;
+    margin-right: 25px;
+}
+
+.navbar {
+    color:white;
+}
